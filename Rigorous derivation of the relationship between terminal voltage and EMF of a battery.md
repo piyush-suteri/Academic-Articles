@@ -1,4 +1,5 @@
 # A Rigorous Derivation of the Terminal Voltage Equation: $V = \text{emf} - ir$
+By Piyush Suteri
 
 Let's explore the fundamental principles governing the operation of a battery, starting from an uncharged state and progressing to its behavior in a closed circuit.
 
