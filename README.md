@@ -19,6 +19,10 @@ My approach is to explore the "why" behind complex concepts, breaking them down 
 
 **Link:** [Rigorously Deriving the Relationship Between Gibbs Free Energy and Cell Potential.md](Rigorously%20Deriving%20the%20Relationship%20Between%20Gibbs%20Free%20Energy%20and%20Cell%20Potential.md)
 
+### 3. (Coming Soon) Why is Electric Force Medium Dependent?
+
+**Summary:** Unlike gravitational force, the electric force is dependent on the medium through which it is acting. However, it shares similarities with gravitational force. In this article, I will provide a detailed explanation of this phenomenon using a first-principles approach.
+
 ---
 
 ## License
