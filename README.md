@@ -21,7 +21,7 @@ My approach is to explore the "why" behind complex concepts, breaking them down 
 
 ### 3. (Coming Soon) Why is Electric Force Medium Dependent?
 
-**Summary:** Unlike gravitational force, the electric force is dependent on the medium through which it is acting. However, it shares similarities with gravitational force. In this article, I will provide a detailed explanation of this phenomenon using a first-principles approach.
+**Summary:** Unlike gravitational force, the electric force is dependent on the medium through which it is acting. However, it shares similarities with gravitational force. In this article, I will provide a detailed explanation of this phenomenon using a first-principles approach. The article will also include visual diagrams and illustrations generated using Python (NumPy + Matplotlib).
 
 ---
 
